@@ -1,0 +1,8 @@
+com\ebizcharge\pages\IntegrationsPage.class
+com\ebizcharge\tests\EBizChargeTest.class
+com\ebizcharge\pages\QuickBooksPage.class
+EBizChargeAutomationTest.class
+com\ebizcharge\pages\HomePage.class
+com\ebizcharge\utils\BaseTest.class
+EBizChargeTest.class
+com\ebizcharge\pages\AcumaticaPage.class

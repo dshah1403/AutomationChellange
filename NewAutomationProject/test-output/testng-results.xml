@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-19T14:09:45 PST" name="TestSuite" finished-at="2025-02-19T14:10:29 PST" duration-ms="43931">
+    <groups>
+    </groups>
+    <test started-at="2025-02-19T14:09:45 PST" name="EBizCharge Tests" finished-at="2025-02-19T14:10:29 PST" duration-ms="43931">
+      <class name="com.ebizcharge.tests.EBizChargeTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebizcharge.tests.EBizChargeTest@3fc2959f]" started-at="2025-02-19T14:09:45 PST" name="setUp" finished-at="2025-02-19T14:09:55 PST" duration-ms="10671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testAcumaticaDownload()[pri:0, instance:com.ebizcharge.tests.EBizChargeTest@3fc2959f]" started-at="2025-02-19T14:09:55 PST" name="testAcumaticaDownload" description="Verify that the Acumatica download page opens successfully" finished-at="2025-02-19T14:10:08 PST" duration-ms="12767" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testAcumaticaDownload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebizcharge.tests.EBizChargeTest@3fc2959f]" started-at="2025-02-19T14:10:08 PST" name="tearDown" finished-at="2025-02-19T14:10:08 PST" duration-ms="316" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.ebizcharge.tests.EBizChargeTest@3fc2959f]" started-at="2025-02-19T14:10:08 PST" name="setUp" finished-at="2025-02-19T14:10:17 PST" duration-ms="8354" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="testQuickBooksDownload()[pri:0, instance:com.ebizcharge.tests.EBizChargeTest@3fc2959f]" started-at="2025-02-19T14:10:17 PST" name="testQuickBooksDownload" description="Verify that the Quickbook tab download page opens successfully" finished-at="2025-02-19T14:10:28 PST" duration-ms="11293" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testQuickBooksDownload -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.ebizcharge.tests.EBizChargeTest@3fc2959f]" started-at="2025-02-19T14:10:28 PST" name="tearDown" finished-at="2025-02-19T14:10:28 PST" duration-ms="487" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.ebizcharge.tests.EBizChargeTest -->
+    </test> <!-- EBizCharge Tests -->
+  </suite> <!-- TestSuite -->
+</testng-results>
