@@ -1,0 +1,7 @@
+<suite name="TestSuite" parallel="tests" thread-count="1" >
+    <test name="EBizCharge Tests">
+        <classes>
+            <class name="com.ebizcharge.tests.EBizChargeTest" />
+        </classes>
+    </test>
+</suite>
